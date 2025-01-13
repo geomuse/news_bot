@@ -1,0 +1,1 @@
+利用 telegram 设定 使得新闻可以被 telegram 读取
